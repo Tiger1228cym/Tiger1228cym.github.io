@@ -3,7 +3,7 @@ class Fetch_Chinese {
     getInfo() {
         return {
             id: 'fetch',
-            name: 'Fetch',
+            name: '获取',
             blocks: [
                 {
                     opcode: 'get',
